@@ -1,6 +1,6 @@
 use_frameworks!
 target 'SESDKODMInfo_Tests' do
-  pod 'SESDKODMInfo', :path => '../'
+  pod 'SESDKODMInfo', :path => '../SESDKODMInfo.podspec'
   
   
 end
