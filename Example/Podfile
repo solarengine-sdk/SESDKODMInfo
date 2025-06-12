@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SESDKODMInfo_Tests' do
+  pod 'SESDKODMInfo', :path => '../'
+  
+  
+end
